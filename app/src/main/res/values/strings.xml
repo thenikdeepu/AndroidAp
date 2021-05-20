@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ride Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Categories</string>
+    <string name="make_own_mix_categories">Make your own mix</string>
+    <string name="quotes_search_title">Search</string>
+    <string name="my_favorites">My favorites</string>
+    <string name="own_quotes_category_name">My own affirmation</string>
+    <string name="my_collections">My collections</string>
+    <string name="quotes_search_one">Quotes search one</string>
+    <string name="search">Search</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="email">Email</string>
+    <string name="parola">Password</string>
+</resources>
